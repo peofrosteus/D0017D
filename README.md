@@ -2,6 +2,11 @@
 
 D0017D – Inledande programering i Java
 
+Detta är mina lösningar på inlämningsuppgifterna i kursen D0017D – Inledande programering i Java på Luleå Tekniska Univeristet. Jag saknar facit till uppgifterna, men alla desa lösningar blev godkända.
+Jag uppmanar ingen till att plagiera mina kod, men ta gärna inspiration och vägledning så mycket som behövs.
+
+/Peo
+
 Instruktioner för uppgift 1:
 Du ska beräkna laddtiden för en elbil med ett batteri med ”lagringseffekten” 35.8 kWh (e-golf) för några vanligt förekommande kombinationer av ström och spänning vid laddning. I uppgiften räknar vi med att laddeffekten är ström x spänning (enfas 230V) samt ström x spänning x 3 (trefas 400V). Vi räknar även med att batteriet laddas med maximal effekt från tomt till fulladdat, dvs. laddtiden är lagringseffekt genom laddeffekt.
 
